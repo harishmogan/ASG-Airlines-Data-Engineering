@@ -1,0 +1,4 @@
+payment_method,valid_transaction_count,gross_processed_amount,transaction_share,amount_share
+CARD,300,2400812.04,32.54%,32.51%
+NETBANKING,291,2365644.17,31.56%,32.03%
+UPI,331,2618686.77,35.9%,35.46%

@@ -1,0 +1,11 @@
+kpi_name,kpi_value,unit,definition,denominator,data_source
+Total Payment Records,1000,Records,Total raw payment transactions received,N/A,Payments_Cleaned
+Total Valid Payment Records,922,Records,Payment transactions with valid positive numeric monetary amounts,"Total Payment Records (1,000)",Payments_Cleaned
+Invalid / Null Payment Records,78,Records,Payment transactions with 'INVALID' text or missing amount values,"Total Payment Records (1,000)",Payments_Cleaned
+Gross Processed Payments,"7,385,142.98",INR,Sum of all valid payment amounts across all booking statuses,All Valid Payments,Payments_Cleaned
+Realized Confirmed Revenue,"2,471,402.04",INR,Sum of valid payment amounts strictly associated with CONFIRMED bookings,Valid Payments on Confirmed Bookings,Payments_Cleaned & Bookings
+Cancelled-Booking Processed Payments,"2,220,475.26",INR,Sum of valid payment amounts associated with CANCELLED bookings (potential refunds),Valid Payments on Cancelled Bookings,Payments_Cleaned & Bookings
+Pending-Booking Processed Payments,"2,282,167.45",INR,Sum of valid payment amounts associated with PENDING bookings (escrow/unconfirmed),Valid Payments on Pending Bookings,Payments_Cleaned & Bookings
+Valid Payments - UPI,"331 (₹2,618,686.77)",Count (INR),Valid payment transactions processed via UPI,Total Valid Payments (922),Payments_Cleaned
+Valid Payments - CARD,"300 (₹2,400,812.04)",Count (INR),Valid payment transactions processed via Credit/Debit Card,Total Valid Payments (922),Payments_Cleaned
+Valid Payments - NETBANKING,"291 (₹2,365,644.17)",Count (INR),Valid payment transactions processed via Net Banking,Total Valid Payments (922),Payments_Cleaned

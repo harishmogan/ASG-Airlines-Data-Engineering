@@ -1,0 +1,292 @@
+entity,record_identifier,field,issue_type,severity,description,whether_corrected,safe_reference
+Booking,B1076,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1102' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1076
+Booking,B1089,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1104' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1089
+Booking,B1111,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1999' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1111
+Booking,B1136,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1102' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1136
+Booking,B1173,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1728' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1173
+Booking,B1182,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1727' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1182
+Booking,B1184,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1108' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1184
+Booking,B1204,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1811' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1204
+Booking,B1235,flight_id,AMBIGUOUS_FLIGHT_REFERENCE,HIGH,Booking references flight ID '6F250' which has multiple operational legs. Preserved booking and mapped to unresolved member.,FLAGGED,B1235
+Booking,B1288,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1944' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1288
+Booking,B1294,flight_id,AMBIGUOUS_FLIGHT_REFERENCE,HIGH,Booking references flight ID '6F250' which has multiple operational legs. Preserved booking and mapped to unresolved member.,FLAGGED,B1294
+Booking,B1320,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1811' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1320
+Booking,B1341,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1252' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1341
+Booking,B1352,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1140' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1352
+Booking,B1375,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1811' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1375
+Booking,B1410,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1985' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1410
+Booking,B1414,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1615' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1414
+Booking,B1447,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1991' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1447
+Booking,B1613,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1944' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1613
+Booking,B1623,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1542' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1623
+Booking,B1679,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1727' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1679
+Booking,B1694,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1999' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1694
+Booking,B1733,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1331' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1733
+Booking,B1761,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1331' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1761
+Booking,B1768,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1991' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1768
+Booking,B1770,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1727' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1770
+Booking,B1775,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1999' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1775
+Booking,B1783,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1991' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1783
+Booking,B1809,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1781' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1809
+Booking,B1846,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1994' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1846
+Booking,B1858,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1858' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1858
+Booking,B1896,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1102' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1896
+Booking,B1906,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1236' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1906
+Booking,B1916,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1542' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1916
+Booking,B1931,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1108' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1931
+Booking,B1934,passenger_id,AMBIGUOUS_PASSENGER_REFERENCE,HIGH,Booking references passenger ID 'P1858' which corresponds to multiple individuals. Preserved booking and mapped to unresolved member.,FLAGGED,B1934
+Flight,6F250,flight_id,MULTI_LEG_COLLISION,HIGH,Flight ID '6F250' corresponds to multiple distinct operational legs. Assigned distinct surrogate keys to avoid data loss.,FLAGGED,6F250
+Flight,SJ192,arrival_time,INVERTED_TIMESTAMPS,HIGH,Arrival timestamp (2026-04-18 23:45:42) occurred before departure (2026-04-19 18:45:42). Objectively corrected arrival date to 2026-04-19 based on operational time component.,YES,SJ192
+Passenger,P1034,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1034' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1034
+Passenger,P1102,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1102' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1102
+Passenger,P1104,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1104' is shared by 3 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1104
+Passenger,P1108,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1108' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1108
+Passenger,P1140,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1140' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1140
+Passenger,P1141,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1141' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1141
+Passenger,P1178,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1178' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1178
+Passenger,P1216,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1216' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1216
+Passenger,P1236,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1236' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1236
+Passenger,P1252,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1252' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1252
+Passenger,P1331,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1331' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1331
+Passenger,P1408,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1408' is shared by 3 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1408
+Passenger,P1413,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1413' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1413
+Passenger,P1469,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1469' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1469
+Passenger,P1542,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1542' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1542
+Passenger,P1615,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1615' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1615
+Passenger,P1630,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1630' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1630
+Passenger,P1695,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1695' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1695
+Passenger,P1711,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1711' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1711
+Passenger,P1727,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1727' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1727
+Passenger,P1728,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1728' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1728
+Passenger,P1781,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1781' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1781
+Passenger,P1807,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1807' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1807
+Passenger,P1811,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1811' is shared by 3 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1811
+Passenger,P1858,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1858' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1858
+Passenger,P1875,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1875' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1875
+Passenger,P1889,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1889' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1889
+Passenger,P1905,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1905' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1905
+Passenger,P1912,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1912' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1912
+Passenger,P1931,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1931' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1931
+Passenger,P1944,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1944' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1944
+Passenger,P1982,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1982' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1982
+Passenger,P1985,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1985' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1985
+Passenger,P1991,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1991' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1991
+Passenger,P1994,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1994' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1994
+Passenger,P1999,passenger_id,PASSENGER_ID_COLLISION,HIGH,Passenger ID 'P1999' is shared by 2 distinct individuals. Assigned unique surrogate keys to preserve all distinct passengers.,FLAGGED,Collision ID: P1999
+Payment,PAY1018,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1018
+Payment,PAY1019,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1019
+Payment,PAY1024,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1024
+Payment,PAY1026,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1026
+Payment,PAY1033,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1033
+Payment,PAY1060,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1060
+Payment,PAY1069,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1069
+Payment,PAY1071,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1071
+Payment,PAY1077,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1077
+Payment,PAY1173,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1173
+Payment,PAY1184,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1184
+Payment,PAY1186,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1186
+Payment,PAY1207,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1207
+Payment,PAY1213,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1213
+Payment,PAY1220,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1220
+Payment,PAY1244,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1244
+Payment,PAY1249,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1249
+Payment,PAY1256,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1256
+Payment,PAY1269,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1269
+Payment,PAY1273,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1273
+Payment,PAY1283,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1283
+Payment,PAY1290,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1290
+Payment,PAY1311,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1311
+Payment,PAY1323,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1323
+Payment,PAY1328,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1328
+Payment,PAY1344,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1344
+Payment,PAY1361,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1361
+Payment,PAY1387,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1387
+Payment,PAY1392,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1392
+Payment,PAY1408,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1408
+Payment,PAY1428,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1428
+Payment,PAY1433,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1433
+Payment,PAY1448,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1448
+Payment,PAY1450,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1450
+Payment,PAY1456,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1456
+Payment,PAY1460,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1460
+Payment,PAY1488,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1488
+Payment,PAY1534,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1534
+Payment,PAY1548,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1548
+Payment,PAY1568,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1568
+Payment,PAY1576,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1576
+Payment,PAY1581,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1581
+Payment,PAY1590,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1590
+Payment,PAY1591,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1591
+Payment,PAY1599,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1599
+Payment,PAY1615,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1615
+Payment,PAY1623,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1623
+Payment,PAY1644,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1644
+Payment,PAY1657,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1657
+Payment,PAY1664,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1664
+Payment,PAY1677,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1677
+Payment,PAY1683,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1683
+Payment,PAY1700,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1700
+Payment,PAY1704,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1704
+Payment,PAY1705,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1705
+Payment,PAY1710,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1710
+Payment,PAY1721,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1721
+Payment,PAY1739,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1739
+Payment,PAY1742,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1742
+Payment,PAY1748,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1748
+Payment,PAY1756,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1756
+Payment,PAY1757,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1757
+Payment,PAY1766,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1766
+Payment,PAY1778,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1778
+Payment,PAY1817,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1817
+Payment,PAY1832,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1832
+Payment,PAY1838,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1838
+Payment,PAY1850,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1850
+Payment,PAY1852,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1852
+Payment,PAY1890,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1890
+Payment,PAY1897,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1897
+Payment,PAY1921,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1921
+Payment,PAY1922,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1922
+Payment,PAY1925,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1925
+Payment,PAY1949,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1949
+Payment,PAY1961,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1961
+Payment,PAY1981,amount,INVALID_PAYMENT_AMOUNT,HIGH,Payment amount was corrupted with literal text 'INVALID'.,FLAGGED,PAY1981
+Payment,PAY1992,amount,MISSING_PAYMENT_AMOUNT,HIGH,Payment amount was null/missing.,FLAGGED,PAY1992
+Booking,B1015,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1015
+Booking,B1033,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1033
+Booking,B1045,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1045
+Booking,B1097,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1097
+Booking,B1098,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1098
+Booking,B1214,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1214
+Booking,B1223,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1223
+Booking,B1237,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1237
+Booking,B1238,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1238
+Booking,B1245,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1245
+Booking,B1270,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1270
+Booking,B1273,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1273
+Booking,B1279,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1279
+Booking,B1312,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1312
+Booking,B1357,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1357
+Booking,B1360,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1360
+Booking,B1389,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1389
+Booking,B1396,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1396
+Booking,B1401,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1401
+Booking,B1413,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1413
+Booking,B1421,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1421
+Booking,B1438,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1438
+Booking,B1483,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1483
+Booking,B1508,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1508
+Booking,B1525,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1525
+Booking,B1529,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1529
+Booking,B1536,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1536
+Booking,B1576,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1576
+Booking,B1583,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1583
+Booking,B1593,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1593
+Booking,B1602,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1602
+Booking,B1614,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1614
+Booking,B1641,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1641
+Booking,B1650,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1650
+Booking,B1654,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1654
+Booking,B1673,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1673
+Booking,B1680,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1680
+Booking,B1711,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1711
+Booking,B1772,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1772
+Booking,B1858,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1858
+Booking,B1860,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1860
+Booking,B1975,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1975
+Booking,B1982,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1982
+Booking,B1983,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1983
+Booking,B1989,status,MISSING_STATUS,MEDIUM,Booking status was null/empty; standardized to UNKNOWN.,YES,B1989
+Flight,AI020,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight AI020
+Flight,AI031,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight AI031
+Flight,AI043,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight AI043
+Flight,AI070,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight AI070
+Flight,AI242,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight AI242
+Flight,SJ037,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight SJ037
+Flight,SJ118,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight SJ118
+Flight,SJ142,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight SJ142
+Flight,SJ146,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight SJ146
+Flight,UK013,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK013
+Flight,UK049,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK049
+Flight,UK139,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK139
+Flight,UK160,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK160
+Flight,UK163,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK163
+Flight,UK180,ALL,EXACT_DUPLICATE,MEDIUM,Identical operational flight row duplicated; removing redundant row.,YES,Flight UK180
+Flight,6F250,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F250
+Flight,6F250,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F250
+Flight,6F251,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F251
+Flight,6F252,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F252
+Flight,6F253,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F253
+Flight,6F254,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F254
+Flight,6F255,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F255
+Flight,6F256,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F256
+Flight,6F257,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F257
+Flight,6F258,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F258
+Flight,6F259,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F259
+Flight,6F260,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F260
+Flight,6F261,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F261
+Flight,6F262,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F262
+Flight,6F263,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F263
+Flight,6F264,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F264
+Flight,6F265,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F265
+Flight,6F266,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F266
+Flight,6F267,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F267
+Flight,6F268,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F268
+Flight,6F269,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F269
+Flight,6F270,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F270
+Flight,6F271,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F271
+Flight,6F272,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'IndiGo' from prefix '6F'.,YES,6F272
+Flight,AI009,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI009
+Flight,AI020,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI020
+Flight,AI037,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI037
+Flight,AI044,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI044
+Flight,AI046,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI046
+Flight,AI047,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI047
+Flight,AI065,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI065
+Flight,AI069,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI069
+Flight,AI088,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI088
+Flight,AI100,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI100
+Flight,AI125,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI125
+Flight,AI128,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI128
+Flight,AI145,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI145
+Flight,AI168,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI168
+Flight,AI219,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI219
+Flight,AI222,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI222
+Flight,AI226,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI226
+Flight,AI230,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI230
+Flight,AI242,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI242
+Flight,AI243,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI243
+Flight,AI250,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI250
+Flight,AI252,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Air India' from prefix 'AI'.,YES,AI252
+Flight,SJ027,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ027
+Flight,SJ029,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ029
+Flight,SJ043,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ043
+Flight,SJ051,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ051
+Flight,SJ096,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ096
+Flight,SJ099,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ099
+Flight,SJ138,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ138
+Flight,SJ140,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ140
+Flight,SJ203,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ203
+Flight,SJ212,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ212
+Flight,SJ225,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'SpiceJet' from prefix 'SJ'.,YES,SJ225
+Flight,UK003,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK003
+Flight,UK043,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK043
+Flight,UK077,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK077
+Flight,UK081,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK081
+Flight,UK088,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK088
+Flight,UK112,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK112
+Flight,UK139,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK139
+Flight,UK141,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK141
+Flight,UK151,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK151
+Flight,UK209,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK209
+Flight,UK224,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'nan'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK224
+Flight,UK229,airline,MISSING_OR_UNKNOWN_AIRLINE,LOW,Airline was 'UNKNOWN'; objectively recovered as 'Vistara' from prefix 'UK'.,YES,UK229
+Passenger,P1108,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Kulkarni' from combined first name 'IshaanKulkarni'.,YES,Ishaan K.
+Passenger,P1141,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Kulkarni' from combined first name 'SaiKulkarni'.,YES,Sai K.
+Passenger,P1178,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Naidu' from combined first name 'Kavyanaidu'.,YES,Kavya N.
+Passenger,P1236,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Sharma' from combined first name 'MyraSharma'.,YES,Myra S.
+Passenger,P1781,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Singh' from combined first name 'ArjunSingh'.,YES,Arjun S.
+Passenger,P1889,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Patel' from combined first name 'AadhyapPatel'.,YES,Aadhyap P.
+Passenger,P1944,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Gupta' from combined first name 'RiyaGupta'.,YES,Riya G.
+Passenger,P1985,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Nair' from combined first name 'AadhyaNair'.,YES,Aadhya N.
+Passenger,P1994,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Kulkarni' from combined first name 'DiyaKulkarni'.,YES,Diya K.
+Passenger,P1999,last_name,CONCATENATED_NAME,LOW,Last name was missing; extracted 'Pillai' from combined first name 'AnanyaPillai'.,YES,Ananya P.

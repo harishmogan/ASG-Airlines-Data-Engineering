@@ -1,0 +1,11 @@
+kpi_name,kpi_value,unit,definition,denominator,data_source
+Exact Duplicate Flight Rows Deduplicated,15,Rows,Identical flight records across all columns safely deduplicated,"Raw Flights (1,020)",Flights Cleaning
+Missing/Unknown Airlines Objectively Recovered,69,Values,Missing or UNKNOWN airline names recovered using flight ID prefixes,"Raw Flights (1,020)",Flights Cleaning
+Inverted Timestamps Objectively Repaired,1,Records,Arrival timestamps occurring before departure repaired via general operational rule,"Raw Flights (1,020)",Flights Cleaning
+Multi-Leg Flight Collision IDs Flagged,1,Flight IDs,Flight IDs representing multiple operational legs preserved with surrogate keys,"Raw Flights (1,020)",Flights Cleaning
+Passenger ID Collision Groups Flagged,36,Passenger IDs,Passenger IDs shared by distinct individuals preserved with surrogate keys,"Raw Passengers (1,039)",Passengers Cleaning
+Concatenated Surnames Separated,10,Records,Missing last names objectively recovered from combined first name field,"Raw Passengers (1,039)",Passengers Cleaning
+Truncated Aadhaar Leading Zeros Restored,0,Records,Aadhaar IDs restored to strict 12-digit string representations,"Raw Passengers (1,039)",Passengers Cleaning
+Invalid/Missing Payment Amounts Flagged,78,Records,Payment amounts containing 'INVALID' text or null values,"Raw Payments (1,000)",Payments Cleaning
+Ambiguous Flight References in Bookings,2,Bookings,Bookings referencing multi-leg flights mapped to unresolved member,"Raw Bookings (1,000)",Bookings Cleaning
+Ambiguous Passenger References in Bookings,34,Bookings,Bookings referencing colliding passenger IDs mapped to unresolved member,"Raw Bookings (1,000)",Bookings Cleaning

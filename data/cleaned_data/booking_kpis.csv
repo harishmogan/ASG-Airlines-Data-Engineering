@@ -1,0 +1,10 @@
+kpi_name,kpi_value,unit,definition,denominator,data_source
+Total Reservations,1000,Bookings,Total count of booking records preserved in Fact_Bookings,N/A,Fact_Bookings
+Confirmed Bookings,320,Bookings,Count of bookings with status CONFIRMED,Total Bookings,Fact_Bookings
+Cancelled Bookings,314,Bookings,Count of bookings with status CANCELLED,Total Bookings,Fact_Bookings
+Pending Bookings,291,Bookings,Count of bookings with status PENDING,Total Bookings,Fact_Bookings
+Invalid Bookings,30,Bookings,Count of bookings marked with status INVALID,Total Bookings,Fact_Bookings
+Unknown / Missing Status Bookings,45,Bookings,Count of bookings where raw status was missing or unrecognized,Total Bookings,Fact_Bookings
+Booking Conversion Rate,32.00%,Percentage,Confirmed Bookings / Total Bookings,"Total Bookings (1,000)",Fact_Bookings
+Unpaid Bookings (Def 1: Zero Payment Records),363 (36.30%),Count (Percentage),Bookings with zero associated payment records in payments sheet,"Total Bookings (1,000)",Fact_Bookings & Payments
+Unpaid Bookings (Def 2: Zero Valid Payment Amounts),394 (39.40%),Count (Percentage),Bookings with zero valid positive payment amounts processed,"Total Bookings (1,000)",Fact_Bookings & Payments

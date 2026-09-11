@@ -1,0 +1,6 @@
+kpi_name,kpi_value,unit,definition,denominator,data_source
+Total Operational Flights,1005,Flights,Count of distinct operational flight records after deduplication,N/A,Fact_Flights
+Average Flight Duration,164.62,Minutes,"Mean flight duration across all operational flights (1,005 flights)","Total Flights (1,005)",Fact_Flights
+Average Duration (Excluding Outliers),164.49,Minutes,"Mean flight duration excluding flagged duration anomalies (1,004 non-outlier flights)","Non-outlier Flights (1,004)",Fact_Flights
+Overnight Flight Count,122,Flights,Count of flights where arrival date is later than departure date,N/A,Fact_Flights
+Overnight Flight Percentage,12.14%,Percentage,Proportion of flights operating across midnight into next calendar day,"Total Operational Flights (1,005)",Fact_Flights
