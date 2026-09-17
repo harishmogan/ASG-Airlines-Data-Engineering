@@ -9,7 +9,7 @@ Computes core operational, reservation, financial, and data quality metrics:
 
 from typing import Dict
 import pandas as pd
-
+import numpy as np
 
 def compute_all_kpis(
     fact_flights: pd.DataFrame,
