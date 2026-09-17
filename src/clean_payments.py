@@ -10,6 +10,7 @@ Performs:
 from typing import Tuple, List, Dict, Any
 import pandas as pd
 import numpy as np
+import seaborn as sns
 
 from src.config import VALID_PAYMENT_METHODS
 
