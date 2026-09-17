@@ -10,6 +10,8 @@ Computes core operational, reservation, financial, and data quality metrics:
 from typing import Dict
 import pandas as pd
 import numpy as np
+import seaborn as sns
+
 
 def compute_all_kpis(
     fact_flights: pd.DataFrame,
